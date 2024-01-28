@@ -1,0 +1,5 @@
+Package: CalculateSampleNumber
+Type: Package
+Title: Calculate Sample Number Package
+Version: 0.0.1.0
+RoxygenNote: 7.3.1
